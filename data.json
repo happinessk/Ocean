@@ -6,5 +6,11 @@
             "url": "http://irenesaustin.com/",
             "location": [30.270023, -97.751162]
         }
+        {
+            "name": "Suerte",
+            "neighborhood": "East Austin",
+            "url": "https://www.suerteatx.com/",
+            "location": [30.263204, -97.723383]
+        }
     ]
 }
