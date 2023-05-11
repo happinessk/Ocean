@@ -1,5 +1,5 @@
-# fun-near-faulk
-a repo for teaching git, github, & open source development at CoA nerdshops 🤓
+# Places we like to eat at
+a repo for teaching git, github, & open source development 🤓
 
 ## wanna contribute your favorite spots near Faulk?  
 1. clone your fork onto your laptop
@@ -7,4 +7,3 @@ a repo for teaching git, github, & open source development at CoA nerdshops 🤓
 3. add/commit/push your changes
 4. open a pull request
 
-if you have any questions about these instructions, [open an issue](https://github.com/cityofaustin/fun-near-faulk/issues/new)!
