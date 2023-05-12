@@ -23,7 +23,7 @@
             "name": "Testing!",
             "neighborhood": "East",
             "url": "http://library.austintexas.gov",
-            "location": [30.263204, -97.754383]
+            "location": [10.263204, -97.754383]
         }
     ]
 }
